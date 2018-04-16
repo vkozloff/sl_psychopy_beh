@@ -1,0 +1,5 @@
+,task,mean_accuracy
+1,LSL,0.609
+2,SSL,0.543
+3,TSL,0.524
+4,VSL,0.726

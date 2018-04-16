@@ -1,0 +1,11 @@
+"","part_id","task","domain","modality","accuracy"
+"1","f006","ssl","auditory","linguistic",0.688
+"2","f006","tsl","auditory","non-linguistic",0.688
+"3","f008","ssl","auditory","linguistic",0.75
+"4","f008","tsl","auditory","non-linguistic",0.625
+"5","f005","lsl","visual","linguistic",0.562
+"6","f005","vsl","visual","non-linguistic",0.438
+"7","f006","lsl","visual","linguistic",0.25
+"8","f006","vsl","visual","non-linguistic",0.5
+"9","f008","lsl","visual","linguistic",0.688
+"10","f008","vsl","visual","non-linguistic",0.938
